@@ -1,0 +1,20 @@
+Notebook Animaciones CSS
+
+Cuando el navegador punta elemento en pantalla tiene 3 etapas:
+
+1. Layout: Algoritmo del navegador que calcula la geometria de todos los elementos combinados
+2. Paint: El proceso de pintado de cada elemento
+3. Composite: Separar una capa de resto para manipular sin afectar el layout de los demas.
+
+Nota: La composicion evita la recalculacion del layout y el repintado por tanto cuesta mucho menos.
+
+1.6 Estado inicial de las propiedades
+Todo elemento, tiene todas las propiedades con su estado inicial y todas las propiedades a su vez tienen su respectivo estado inicialNotebook Animaciones CSS
+
+Cuando el navegador punta elemento en pantalla tiene 3 etapas:
+
+1. Layout: Algoritmo del navegador que calcula la geometria de todos los elementos combinados
+2. Paint: El proceso de pintado de cada elemento
+3. Composite: Separar una capa de resto para manipular sin afectar el layout de los demas
+
+Nota: La composicion evita la recalculacion del layout y el repintado por tanto cuesta mucho menos.
