@@ -2,4 +2,4 @@
 
 ## Personal Pens
 
-Visit my personal codepen [profile]('https://codepen.io/iamalexandro') to check out.
+Visit my personal codepen [profile](https://codepen.io/iamalexandro) to check out.
